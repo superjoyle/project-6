@@ -3,6 +3,7 @@ About/Overview:
 The Monkey Sanctuary Management System is a program designed to manage a sanctuary for various species of monkeys. The system allows users to add new monkeys to the sanctuary, move them to different enclosures based on their species, provide medical attention when needed, and view details about monkeys in isolation and enclosures.
 
 List of Features:
+
 Add Monkey: Users can add new monkeys to the sanctuary by providing their details such as name, species, sex, size, weight, age, and favorite food.
 Move to Enclosure: Monkeys can be moved from isolation to specific enclosures based on their species.
 Provide Medical Attention: Users can provide medical attention to monkeys, potentially moving them back to isolation if necessary.
@@ -16,6 +17,7 @@ To run the program, execute the jar file using the command java -jar MonkeySanct
 The program requires no additional arguments.
 
 How to Use the Program:
+
 Adding a Monkey:
 
 Enter the monkey's details in the respective text fields (name, sex, size, weight, age, favorite food).
